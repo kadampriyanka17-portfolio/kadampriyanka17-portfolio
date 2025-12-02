@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Priyanka 
-### Technical Lead | Senior Software Engineer | Cloud-Native Architect  
+### Technical Lead 
 ### Based in Sydney (Relocating Soon)
 
 Welcome to my GitHub portfolio. I build scalable, maintainable, high-performance systems with a strong focus on **Clean Architecture**, **cloud-native development**, **high-availability systems**, and **engineering leadership**.
@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio. I build scalable, maintainable, high-performance
 
 ## 🚀 About Me
 
-I’m a **Technical Lead / Senior Software Engineer** with experience designing and delivering production-grade platforms across **Healthcare, Real Estate**.
+I’m a **Technical Lead** with experience designing and delivering production-grade platforms across **Healthcare, Real Estate**.
 
 I specialize in:
 
