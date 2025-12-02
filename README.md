@@ -13,7 +13,7 @@ I’m a **Technical Lead / Senior Software Engineer** with experience designing 
 I specialize in:
 
 - **Distributed Systems & Cloud Architecture (AWS / Azure)**
-- **Backend Engineering (.NET / Node / Java — customise based on your stack)**
+- **Backend Engineering (.NET / Node )**
 - **Microservices, Event-Driven Architecture, CQRS, DDD**
 - **DevOps, CI/CD, IaC, Observability**
 - **Leading engineering teams & mentoring developers**
