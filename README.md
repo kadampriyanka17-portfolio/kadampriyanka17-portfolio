@@ -102,14 +102,7 @@ Includes C# solutions, explanations, and optimised patterns.
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Email:** your-email@example.com  
-- **GitHub Projects:** Scroll below ⬇️  
+- **LinkedIn:** www.linkedin.com/in/priyankasakpal  
+- **Email:** kadampriyanka17@gmail.com
 
 ---
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
