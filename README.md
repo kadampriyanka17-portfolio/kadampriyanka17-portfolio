@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio. I build scalable, maintainable, high-performance
 
 ## 🚀 About Me
 
-I’m a **Senior Software Engineer / Technical Lead** with experience designing and delivering production-grade platforms across **finance, SaaS, e-commerce, and enterprise systems**.
+I’m a **Technical Lead / Senior Software Engineer** with experience designing and delivering production-grade platforms across **Healthcare, Real Estate**.
 
 I specialize in:
 
